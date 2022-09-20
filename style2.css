@@ -3,22 +3,28 @@
   background-color: #e5dace;
 }
 #about {
-  background-color: #b2b2a2;
+  background-color: #fff;
 }
 #projects {
-  background-color: #6d7973;
+  background-color: #b2b2a2;
 }
 
 #contact {
-  background-color: white;
+  background-color: #a2aab0;
 }
 footer {
-  background-color: #3f3931;
-  color: white;
+  background-color: #ebeced;
   text-align: center;
   font-size: medium;
   padding-bottom: 5px;
 }
 section {
   padding-top: 5rem;
+}
+/* gallery */
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
 }
